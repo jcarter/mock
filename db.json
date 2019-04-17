@@ -1,0 +1,23 @@
+{
+  "taxonomy_codes": {
+    "101Y00000X": {
+      "type_classification": "Behavioral Health & Social Service Providers : Counselor"
+    },
+    "101YA0400X": {
+      "type_classification": "Counselor : Addiction (Substance Use Disorder)"
+    },
+    "101YM0800X": {
+      "type_classification": "Behavioral Health & Social Service Providers : Counselor : Mental Health"
+    },
+    "101YP1600X": {
+      "type_classification": "Behavioral Health & Social Service Providers : Counselor : Pastoral"
+    }
+  },
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
